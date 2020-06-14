@@ -1,3 +1,6 @@
 def add(x, y):
     pass
-    RETURN
+
+def divide(x, y):
+    return x / y
+
